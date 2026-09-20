@@ -1,0 +1,393 @@
+[
+  {
+    "productId": "LAP001",
+    "name": "Acer Aspire 5",
+    "platform": "ShopKart",
+    "category": "laptop",
+    "price": 62999,
+    "shippingCost": 0,
+    "deliveryDays": 3,
+    "rating": 4.4,
+    "stock": true,
+    "seller": "TechWorld",
+    "specifications": {
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "processor": "Intel Core i5",
+      "display": "15.6 inch"
+    }
+  },
+  {
+    "productId": "LAP002",
+    "name": "Acer Aspire 5",
+    "platform": "QuickBuy",
+    "category": "laptop",
+    "price": 61499,
+    "shippingCost": 299,
+    "deliveryDays": 5,
+    "rating": 4.3,
+    "stock": true,
+    "seller": "Digital Store",
+    "specifications": {
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "processor": "Intel Core i5",
+      "display": "15.6 inch"
+    }
+  },
+  {
+    "productId": "LAP003",
+    "name": "Acer Aspire 5",
+    "platform": "MegaMart",
+    "category": "laptop",
+    "price": 64999,
+    "shippingCost": 0,
+    "deliveryDays": 2,
+    "rating": 4.5,
+    "stock": true,
+    "seller": "Mega Electronics",
+    "specifications": {
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "processor": "Intel Core i5",
+      "display": "15.6 inch"
+    }
+  },
+
+  {
+    "productId": "LAP004",
+    "name": "Lenovo IdeaPad Slim 5",
+    "platform": "ShopKart",
+    "category": "laptop",
+    "price": 68999,
+    "shippingCost": 0,
+    "deliveryDays": 4,
+    "rating": 4.6,
+    "stock": true,
+    "seller": "Laptop Hub",
+    "specifications": {
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "processor": "AMD Ryzen 7",
+      "display": "15.6 inch"
+    }
+  },
+  {
+    "productId": "LAP005",
+    "name": "HP Pavilion 15",
+    "platform": "QuickBuy",
+    "category": "laptop",
+    "price": 72999,
+    "shippingCost": 0,
+    "deliveryDays": 3,
+    "rating": 4.5,
+    "stock": true,
+    "seller": "HP Official",
+    "specifications": {
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "processor": "Intel Core i5",
+      "display": "15.6 inch"
+    }
+  },
+
+  {
+    "productId": "PHONE001",
+    "name": "Samsung Galaxy A56",
+    "platform": "ShopKart",
+    "category": "smartphone",
+    "price": 42999,
+    "shippingCost": 0,
+    "deliveryDays": 2,
+    "rating": 4.5,
+    "stock": true,
+    "seller": "Samsung Store",
+    "specifications": {
+      "ram": "8GB",
+      "storage": "256GB",
+      "battery": "5000mAh",
+      "display": "AMOLED"
+    }
+  },
+  {
+    "productId": "PHONE002",
+    "name": "Samsung Galaxy A56",
+    "platform": "QuickBuy",
+    "category": "smartphone",
+    "price": 41999,
+    "shippingCost": 199,
+    "deliveryDays": 1,
+    "rating": 4.4,
+    "stock": true,
+    "seller": "Mobile World",
+    "specifications": {
+      "ram": "8GB",
+      "storage": "256GB",
+      "battery": "5000mAh",
+      "display": "AMOLED"
+    }
+  },
+  {
+    "productId": "PHONE003",
+    "name": "Samsung Galaxy A56",
+    "platform": "MegaMart",
+    "category": "smartphone",
+    "price": 43999,
+    "shippingCost": 0,
+    "deliveryDays": 4,
+    "rating": 4.6,
+    "stock": true,
+    "seller": "Mega Electronics",
+    "specifications": {
+      "ram": "8GB",
+      "storage": "256GB",
+      "battery": "5000mAh",
+      "display": "AMOLED"
+    }
+  },
+
+  {
+    "productId": "PHONE004",
+    "name": "OnePlus Nord 5",
+    "platform": "ShopKart",
+    "category": "smartphone",
+    "price": 36999,
+    "shippingCost": 0,
+    "deliveryDays": 3,
+    "rating": 4.4,
+    "stock": true,
+    "seller": "OnePlus Store",
+    "specifications": {
+      "ram": "12GB",
+      "storage": "256GB",
+      "battery": "5500mAh",
+      "display": "AMOLED"
+    }
+  },
+
+  {
+    "productId": "CHAIR001",
+    "name": "ErgoPro Office Chair",
+    "platform": "ShopKart",
+    "category": "office chair",
+    "price": 10500,
+    "shippingCost": 0,
+    "deliveryDays": 3,
+    "rating": 4.5,
+    "stock": true,
+    "seller": "Office Furniture Co",
+    "specifications": {
+      "lumbarSupport": true,
+      "adjustableHeight": true,
+      "headrest": true,
+      "material": "mesh"
+    }
+  },
+  {
+    "productId": "CHAIR002",
+    "name": "ComfortSeat Pro",
+    "platform": "QuickBuy",
+    "category": "office chair",
+    "price": 8500,
+    "shippingCost": 500,
+    "deliveryDays": 7,
+    "rating": 4.3,
+    "stock": true,
+    "seller": "Furniture Hub",
+    "specifications": {
+      "lumbarSupport": true,
+      "adjustableHeight": true,
+      "headrest": false,
+      "material": "fabric"
+    }
+  },
+  {
+    "productId": "CHAIR003",
+    "name": "WorkFlex Chair",
+    "platform": "MegaMart",
+    "category": "office chair",
+    "price": 11500,
+    "shippingCost": 0,
+    "deliveryDays": 2,
+    "rating": 4.6,
+    "stock": true,
+    "seller": "Mega Furniture",
+    "specifications": {
+      "lumbarSupport": true,
+      "adjustableHeight": false,
+      "headrest": true,
+      "material": "mesh"
+    }
+  },
+
+  {
+    "productId": "HEAD001",
+    "name": "Sony WH-1000XM6",
+    "platform": "ShopKart",
+    "category": "headphones",
+    "price": 34999,
+    "shippingCost": 0,
+    "deliveryDays": 2,
+    "rating": 4.8,
+    "stock": true,
+    "seller": "Sony Official",
+    "specifications": {
+      "noiseCancellation": true,
+      "wireless": true,
+      "batteryHours": 30
+    }
+  },
+  {
+    "productId": "HEAD002",
+    "name": "Sony WH-1000XM6",
+    "platform": "QuickBuy",
+    "category": "headphones",
+    "price": 33999,
+    "shippingCost": 299,
+    "deliveryDays": 4,
+    "rating": 4.7,
+    "stock": true,
+    "seller": "Audio World",
+    "specifications": {
+      "noiseCancellation": true,
+      "wireless": true,
+      "batteryHours": 30
+    }
+  },
+  {
+    "productId": "HEAD003",
+    "name": "JBL Live 770NC",
+    "platform": "MegaMart",
+    "category": "headphones",
+    "price": 8999,
+    "shippingCost": 0,
+    "deliveryDays": 2,
+    "rating": 4.4,
+    "stock": true,
+    "seller": "JBL Store",
+    "specifications": {
+      "noiseCancellation": true,
+      "wireless": true,
+      "batteryHours": 65
+    }
+  },
+
+  {
+    "productId": "APPLE001",
+    "name": "Shimla Red Apples",
+    "platform": "QuickBuy",
+    "category": "fruits",
+    "price": 50,
+    "shippingCost": 0,
+    "deliveryDays": 0,
+    "rating": 4.5,
+    "stock": true,
+    "seller": "Fresh Farms",
+    "specifications": {
+      "weight": "1kg",
+      "organic": false
+    }
+  },
+  {
+    "productId": "APPLE002",
+    "name": "Shimla Red Apples",
+    "platform": "MegaMart",
+    "category": "fruits",
+    "price": 65,
+    "shippingCost": 0,
+    "deliveryDays": 0,
+    "rating": 4.6,
+    "stock": true,
+    "seller": "Fresh Basket",
+    "specifications": {
+      "weight": "1kg",
+      "organic": true
+    }
+  },
+  {
+    "productId": "APPLE003",
+    "name": "Shimla Red Apples",
+    "platform": "ShopKart",
+    "category": "fruits",
+    "price": 58,
+    "shippingCost": 20,
+    "deliveryDays": 1,
+    "rating": 4.3,
+    "stock": true,
+    "seller": "Daily Fresh",
+    "specifications": {
+      "weight": "1kg",
+      "organic": false
+    }
+  },
+
+  {
+    "productId": "TABLET001",
+    "name": "Samsung Galaxy Tab S10",
+    "platform": "ShopKart",
+    "category": "tablet",
+    "price": 52999,
+    "shippingCost": 0,
+    "deliveryDays": 3,
+    "rating": 4.7,
+    "stock": true,
+    "seller": "Samsung Store",
+    "specifications": {
+      "ram": "8GB",
+      "storage": "128GB",
+      "display": "11 inch"
+    }
+  },
+  {
+    "productId": "TABLET002",
+    "name": "Samsung Galaxy Tab S10",
+    "platform": "MegaMart",
+    "category": "tablet",
+    "price": 50999,
+    "shippingCost": 499,
+    "deliveryDays": 5,
+    "rating": 4.6,
+    "stock": true,
+    "seller": "Tablet World",
+    "specifications": {
+      "ram": "8GB",
+      "storage": "128GB",
+      "display": "11 inch"
+    }
+  },
+
+  {
+    "productId": "SHIRT001",
+    "name": "Classic Oxford Shirt",
+    "platform": "ShopKart",
+    "category": "shirt",
+    "price": 1299,
+    "shippingCost": 0,
+    "deliveryDays": 3,
+    "rating": 4.3,
+    "stock": true,
+    "seller": "Fashion Hub",
+    "specifications": {
+      "size": "M",
+      "color": "blue",
+      "material": "cotton"
+    }
+  },
+  {
+    "productId": "SHIRT002",
+    "name": "Classic Oxford Shirt",
+    "platform": "QuickBuy",
+    "category": "shirt",
+    "price": 1099,
+    "shippingCost": 99,
+    "deliveryDays": 2,
+    "rating": 4.4,
+    "stock": true,
+    "seller": "Style Store",
+    "specifications": {
+      "size": "M",
+      "color": "blue",
+      "material": "cotton"
+    }
+  }
+]
